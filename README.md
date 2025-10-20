@@ -60,14 +60,14 @@ The project uses five main tables:
 6. Highest units sold by store last year  
 7. Count of unique products sold last year  
 8. Average product price per category  
-9. Warranty claims in 2020  
+9. Warranty claims in Jan 2024  
 10. Best-selling day per store  
 
 ### Medium to Hard (5 Questions)
 11. Least selling product per country per year  
 12. Warranty claims within 180 days of sale  
 13. Warranty claims for products launched in last two years  
-14. Months in last 3 years with >5,000 units sold in USA  
+14. Months in last 3 years with >20,000 units sold in USA  
 15. Category with most warranty claims in last two years  
 
 ### Complex (5 Questions)
@@ -76,9 +76,6 @@ The project uses five main tables:
 18. Correlation of product price vs. warranty claims  
 19. Store with highest % of "Paid Repaired" claims  
 20. Monthly running total of sales per store over 4 years  
-
-### Bonus
-- Analyze sales trends by product lifecycle: 0-6, 6-12, 12-18, 18+ months  
 
 ---
 
