@@ -45,7 +45,7 @@ The project uses five main tables:
 
 ![ER Diagram](er_diagram.png)
 
-*(Exported from dbdiagram.io)*
+*(Exported from [drawsql.app](https://drawsql.app/))*
 
 ---
 
