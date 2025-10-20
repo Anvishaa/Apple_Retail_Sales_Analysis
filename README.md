@@ -37,7 +37,7 @@ The project uses five main tables:
    - `claim_id`: Unique identifier.
    - `claim_date`: Claim date.
    - `sale_id`: References sales.
-   - `repair_status`: Status of the claim (e.g., Paid Repaired, Warranty Void).
+   - `repair_status`: Status of the claim (e.g., Pending, Rejected).
 
 ---
 
