@@ -4,6 +4,12 @@ SQLite project analyzing over **1 million Apple retail sales records**.
 Focus: store performance, product demand, and warranty behavior using advanced SQL techniques.
 
 ---
+## Dataset
+
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset?select=sales.csv)
+- **Size**: 1M+ sales records
+- **Period**: Multiple years
+- **Coverage**: Multiple countries
 
 ## Database Schema
 
